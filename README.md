@@ -1,2 +1,3 @@
 # Hello-world
-Just another reposytory
+
+Hello! My name is Ivan Hulpa!
